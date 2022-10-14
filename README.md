@@ -11,5 +11,6 @@ Familiarising ourselves with GNNs, PyTorch and Git
 - Convolution in Linear Algebra: [Deriving convolution from first principles by Michael Bronstein](https://towardsdatascience.com/deriving-convolution-from-first-principles-4ff124888028)
 - Textbook on Geometric Deep Learning: [GDL Proto-book by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković](https://geometricdeeplearning.com/)
 
-
+## Individual projects
+[Modifications to aggregation in GNNs](Aggregation.md)
 
